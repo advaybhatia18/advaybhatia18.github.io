@@ -1,7 +1,7 @@
 # Advay
 <div align="center">
   <h1>Hi there, I'm Advay Bhatia 👋</h1>
-  <h3>3rd Year B.Tech Student @ YMCA | Tech Entrepreneur | AI & Software Builder</h3>
+  <h3>2nd Year B.Tech Student @ YMCA | Tech Entrepreneur | AI & Software Builder</h3>
   
   <p>
     Building scalable software, automating B2B workflows with AI agents, and bridging engineering fundamentals with real-world business solutions.
