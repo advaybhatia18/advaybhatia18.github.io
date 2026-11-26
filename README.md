@@ -1,22 +1,18 @@
-# Advay
 <div align="center">
   <h1>Hi there, I'm Advay Bhatia 👋</h1>
-  <h3>2nd Year B.Tech Student @ YMCA | Tech Entrepreneur | AI & Software Builder</h3>
+  <h3>2nd Year B.Tech Student @ YMCA | Coder | Tech Entrepreneur</h3>
   
   <p>
-    Building scalable software, automating B2B workflows with AI agents, and bridging engineering fundamentals with real-world business solutions.
+    Building scalable software, automating B2B workflows with AI agents, and turning clean code into real-world business leverage.
   </p>
 
-  <!-- Social Badges (Update links as needed) -->
+  <!-- Social Badges -->
   <p>
-    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <a href="https://www.linkedin.com/in/advay-bhatia-42b067245/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:YOUR-EMAIL@gmail.com">
+    <a href="mailto:advay.bhatia18@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://YOUR-PORTFOLIO-OR-BUSINESS-LINK.com" target="_blank">
-      <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
     </a>
   </p>
 </div>
@@ -25,9 +21,9 @@
 
 ### 🚀 About Me
 
-- 🎓 **Education:** 3rd Year B.Tech Undergraduate at **J.C. Bose University of Science and Technology, YMCA** (Faridabad).
-- 💼 **Ventures:** Founder & Builder focused on **AI-driven B2B lead generation**, workflow automation, and digital media solutions.
-- 💻 **Core Focus:** Data Structures & Algorithms, Full-Stack Web Development, AI Agents, and Applied Electronics.
+- 🎓 **Education:** 2nd Year B.Tech Undergraduate at **J.C. Bose University of Science and Technology, YMCA** (Faridabad).
+- 💻 **Coder & Builder:** Focused on Data Structures & Algorithms, Full-Stack Web Development, and AI Agents.
+- 💼 **Ventures:** Tech Entrepreneur building **AI-driven B2B lead generation** systems and workflow automation tools.
 - 🛠️ **Featured Build:** [**ResQlink**](https://github.com/advaybhatia18/ResQlink) — Emergency response & connectivity web application.
 - ⚡ **Beyond Code:** Aviation & flight simulation enthusiast, PC hardware tinkering, and hybrid AI video production.
 
